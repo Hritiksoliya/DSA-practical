@@ -2,7 +2,7 @@
 #define MAX_SIZE=10;
 
 int main(){
-
+    int size;
     int arr1[MAX_SIZE];
     int arr2[MAX_SIZE];
 
